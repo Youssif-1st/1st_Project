@@ -1,4 +1,17 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # this function used to convert binary to octal
 def binary_to_octal(binary_num):
     octal_numbers = {0: 0, 1: 1, 10: 2, 11: 3, 100: 4, 101: 5, 110: 6, 111: 7}
