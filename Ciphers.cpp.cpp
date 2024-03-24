@@ -1,5 +1,11 @@
-// AUTHOR 1:YOUSSIF MOHAMED YOUSSIF MOHAMED     ID:20230513      PROBELM:4      NAME OF THE PROBLEM:VIGNERE CIPHER     SECTION NUM:1
-// AUTHOR 2:Marya Bilal Hassan habash           ID:20230701      PROBELM:3      NAME OF THE PROBLEM:ROUTE CIPHER       SECTION NUM:1
+//This C++ program serves as a menu-driven interface for implementing two classical ciphers: the Vigenere Cipher and the Route Cipher. 
+//For the Vigenere Cipher, users can encrypt or decrypt messages using a keyword,
+//with input text and keywords processed to ensure only alphabetical characters are considered. 
+//The keyword length is capped at 8 characters, and both encryption and decryption are case-insensitive, yielding output in uppercase. 
+//As for the Route Cipher, users can encrypt or decrypt messages using a specified key. Input messages are padded with 'X' to form a rectangular matrix, 
+//and the encryption process reads the grid clockwise, starting from the top right corner, while decryption follows a spiral path from the same corner. 
+//The program ensures input validation and error handling for both ciphers, 
+//providing an intuitive experience for users to interact with classical encryption techniques.
 
 
 
