@@ -1,7 +1,7 @@
 // Program:(GAME 3)-a two-player mathematical subtraction game It is played by two people with a
 // pile of gold between them.The players take turns removing gold from the pile
 // always removing a non-zero square number of coins. 
-// NAME:YOUSSIF MOHAMED YOUSSIF MOHAMED ----- ID: 20230513 ----- Section: Registration is pending for section assignment.
+// NAME:YOUSSIF MOHAMED YOUSSIF MOHAMED
 // Version: 17.0
 // Date: 2 March
 
